@@ -12,3 +12,5 @@
 [Требования](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Requirements/требования.md)
 
 [Графический материал](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Mockups)
+
+[Диаграммы](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Диаграммы)
