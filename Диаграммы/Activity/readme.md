@@ -20,4 +20,4 @@
 ## 1.3 Процесс выхода <a name="1.3"></a>
 Пользователь выйдет при нажатии на кнопку "Выход"
 
- ![Процесс выхода](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Activity/Registration.jpg)
+ ![Процесс выхода](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Activity/Exit.jpg)
