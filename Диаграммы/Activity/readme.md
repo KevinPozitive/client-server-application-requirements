@@ -14,4 +14,4 @@
 ## 1.2 Процесс регистрации <a name="1.2"></a>
 Пользователь будет вводить данные, пока не введет логин, не существующий в БД
 
- ![Процесс регистрации](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Activity/Microsoft%20Edge.jpg)
+ ![Процесс регистрации](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Activity/Registration.jpg)
