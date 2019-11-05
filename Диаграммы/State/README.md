@@ -1,13 +1,10 @@
 # Диаграммы состояния
 
-## 1. Авторизация
+## 1. Авторизация/Регистрация
 
-![Авторизация](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/State/AuthorizationAct.jpg)
+![Авторизация/Регистрация](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/State/AuthorizationAct.jpg)
 
-## 2. Регистрация
 
-![Регистрация](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/State/RegistrationAct.jpg)
+## 2. Выход из приложения
 
-## 3. Выход из приложения
-
-![Выход из приложения](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/State/ExitAct.jpg)
+![Выход из приложения](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/State/authAndRegistrW.jpg)
