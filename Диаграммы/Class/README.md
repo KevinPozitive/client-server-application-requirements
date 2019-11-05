@@ -1,5 +1,9 @@
 # Диаграмма классов
 
-![Клиент](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Class/ClientPart.jpg)
+## 1. Клиент
 
-![Сервер](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Class/ServerPart.jpg)
+![Диаграмма классов](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Class/ClientPart.jpg)
+
+## 1. Сервер
+
+![Диаграмма классов](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Class/ServerPart.jpg)
