@@ -9,7 +9,7 @@
 
 # 1. Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Use%20case/Диаграмма%20вариантов%20использования.jpg)
+![Диаграмма вариантов использования](https://github.com/KevinPozitive/client-server-application-requirements/blob/master/Диаграммы/Use%20case/Use%20Case.jpg)
 
 <a name="1.1"/>
 
