@@ -7,3 +7,9 @@
 2.[Activity](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Диаграммы/Activity)
 
 3.[Sequence](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Диаграммы/Sequence)
+
+4.[Statechart]()
+
+5.[Class]()
+
+6.[Deployment]()
