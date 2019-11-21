@@ -17,4 +17,4 @@
 
 [ClientApplication](https://github.com/KevinPozitive/ClientApplication)
 
-[ClientApplication](https://github.com/KevinPozitive/ServerApplication)
+[ServerApplication](https://github.com/KevinPozitive/ServerApplication)
