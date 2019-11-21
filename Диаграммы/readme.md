@@ -13,3 +13,7 @@
 5.[Class](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Диаграммы/Class)
 
 6.[Deployment](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Диаграммы/Deployment)
+
+7.[ClientApplication](https://github.com/KevinPozitive/ClientApplication)
+
+8.[ClientApplication](https://github.com/KevinPozitive/ServerApplication)
