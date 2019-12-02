@@ -15,6 +15,6 @@
 
 [Диаграммы](https://github.com/KevinPozitive/client-server-application-requirements/tree/master/Диаграммы)
 
-[ClientApplication](https://github.com/KevinPozitive/ClientApplication)
+[ClientApplication](https://github.com/KevinPozitive/ClientApplication) - приложение клиент
 
-[ServerApplication](https://github.com/KevinPozitive/ServerApplication)
+[ServerApplication](https://github.com/KevinPozitive/ServerApplication) - приложение сервер
