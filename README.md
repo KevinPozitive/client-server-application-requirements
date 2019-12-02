@@ -18,3 +18,5 @@
 [ClientApplication](https://github.com/KevinPozitive/ClientApplication) - приложение клиент
 
 [ServerApplication](https://github.com/KevinPozitive/ServerApplication) - приложение сервер
+
+Разработчик Маршалов В.Д.
