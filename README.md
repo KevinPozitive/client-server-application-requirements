@@ -19,4 +19,6 @@
 
 [ServerApplication](https://github.com/KevinPozitive/ServerApplication) - приложение сервер
 
+[Test](https://github.com/AndrewNaumenko/Busy-day/issues/1) - План-тест (Науменко)
+
 Разработчик Маршалов В.Д.
